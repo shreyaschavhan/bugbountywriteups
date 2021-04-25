@@ -10,3 +10,4 @@
 > * [FUFF and My First Bug Bounty](https://infosecwriteups.com/my-first-bug-bounty-21d3203ffdb0) by Suryansh Mansharamani
 > * [Sensitive Data Exposure](https://sheshasai.medium.com/sentive-data-exposure-fad568b7875) by Shesha Sai
 > * [Vine Users Private Information Disclosure](https://infosecwriteups.com/vine-users-private-information-disclosure-f1c55a3abbb6) by Prial Islam
+> * [The First Bounty Target (Disclosing Multiple Reports)](https://infosecwriteups.com/the-first-bounty-target-disclosing-multiple-reports-b963bffb36cd) by Aditya Soni
