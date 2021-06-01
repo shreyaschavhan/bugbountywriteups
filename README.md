@@ -13,5 +13,5 @@
 > * [The First Bounty Target (Disclosing Multiple Reports)](https://infosecwriteups.com/the-first-bounty-target-disclosing-multiple-reports-b963bffb36cd) by Aditya Soni
 > * [Full account Takeover via reset password function](https://medium.com/@khaled.hassan/full-account-takeover-via-reset-password-function-8b6ef15f346f) by Khaled Hassan
 > * [#BugBounty — Compromising User Account- ”How I was able to compromise user account via HTTP Parameter Pollution(HPP)”](https://logicbomb.medium.com/bugbounty-compromising-user-account-how-i-was-able-to-compromise-user-account-via-http-4288068b901f) by Avinash Jain
-> * [Exploiting the PUT method](https://asfiyashaikh.medium.com/exploiting-put-method-d2d0cd7ba662)
-> * [Simple Remote Code Execution Vulnerability Examples for Beginners](https://ozguralp.medium.com/simple-remote-code-execution-vulnerability-examples-for-beginners-985867878311)
+> * [Exploiting the PUT method](https://asfiyashaikh.medium.com/exploiting-put-method-d2d0cd7ba662) by Asfiya $ha!kh
+> * [Simple Remote Code Execution Vulnerability Examples for Beginners](https://ozguralp.medium.com/simple-remote-code-execution-vulnerability-examples-for-beginners-985867878311) by Ozgur Alp
